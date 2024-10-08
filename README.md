@@ -1,13 +1,13 @@
-# Intro2CS_2024A
-This is an educational repository for teaching Introduction to Computer Science in Java (Ariel University, 2024A). This repository contains the documents and code examples for the CS-101 course. This course requires no background in programming. The course covers basic concepts of algorithms and object-oriented using Java.
+# Intro2CS_2025A
+This is an educational repository for teaching Introduction to Computer Science in Java (Ariel University, 2025 - fall semester - A). This repository contains the documents and code examples for the CS-101 course. This course requires no background in programming. The course covers basic concepts of programming, algorithms, and object-oriented using Java.
 At the end of the course, students should gain good programming skills and theoretical understanding, in particular sorting, functions, recursion, text files, classes, and interfaces.
 
 Links:
 1. General Code standards in Java (based on Google's Style Guide): https://google.github.io/styleguide/javaguide.html#s2.1-file-name
-2. Moodle link (Hebrew, requires authentication): https://moodlearn.ariel.ac.il/course/view.php?id=106350
+2. Moodle link (Hebrew, requires authentication): TBD
 3. IDE: https://www.jetbrains.com/idea/
-4. Java version: 17: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
-5. Github (self ref): https://github.com/benmoshe/Intro2CS_2024A
+4. Java version: 21 (LTS): https://www.oracle.com/il-en/java/technologies/downloads/#java21
+5. Github (self ref): https://github.com/benmoshe/Intro2CS_2025A
 
 Classes:
 
@@ -32,9 +32,9 @@ Class 9: Recursion: https://docs.google.com/presentation/d/1bcKU1Puh1OOWaESAZ6EX
 
 Assignments: 
 
-Ex0: https://docs.google.com/document/d/1U9C1OMqJlO-B89AGmawHjuDAdwhEx_HK/
+# Ex0: https://docs.google.com/document/d/1U9C1OMqJlO-B89AGmawHjuDAdwhEx_HK/
 
-Ex1: https://drive.google.com/file/d/1C1BZmi_Qv6oRrL4T5oN9N2bBMFOHPzSI/view
+# Ex1: https://drive.google.com/file/d/1C1BZmi_Qv6oRrL4T5oN9N2bBMFOHPzSI/view
 
-Ex2: https://docs.google.com/document/d/1HiVFpvDje64esdXZRvOx64zd2Ry6vXgj/edit?usp=sharing&ouid=113711744349547563645&rtpof=true&sd=true
+# Ex2: https://docs.google.com/document/d/1HiVFpvDje64esdXZRvOx64zd2Ry6vXgj/edit?usp=sharing&ouid=113711744349547563645&rtpof=true&sd=true
 
